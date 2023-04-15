@@ -1,0 +1,25 @@
+/* start box  */
+.d-flex{
+    display: flex;
+}
+/* end box  */
+/* start padding + margin */
+.p-20{
+    padding: 20px;
+}
+.m-20{
+    margin: 20px;
+}
+/* end padding + margin */
+/* start color  */
+.bg-white{
+    background-color: white;
+}
+/* end color  */
+/* start position */
+.p-relative{
+    position: relative;
+}
+/* end position */
+
+
